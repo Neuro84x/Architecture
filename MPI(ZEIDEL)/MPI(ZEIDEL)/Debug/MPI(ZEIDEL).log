@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(9,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(10,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(70,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(74,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(75,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(114,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(116,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(141,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\MPI(ZEIDEL)\main.cpp(143,27): warning C4018: <: несоответствие типов со знаком и без знака
+  MPI(ZEIDEL).vcxproj -> C:\Users\Neuro84x\source\repos\MPI(ZEIDEL)\Debug\MPI(ZEIDEL).exe
