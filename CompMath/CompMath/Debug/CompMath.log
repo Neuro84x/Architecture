@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (CompMath.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\Neuro84x\source\repos\CompMath\CompMath\main.cpp(149,63): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  CompMath.vcxproj -> C:\Users\Neuro84x\source\repos\CompMath\Debug\Иттерации и Зейдель.exe
